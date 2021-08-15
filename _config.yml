@@ -24,6 +24,8 @@ url: "https://randomodbuild.github.io" # the base hostname & protocol for your s
 twitter_username: randomodbuild
 github_username:  randomodbuild
 
+permalink: /:title/
+
 # Build settings
 markdown: kramdown
 theme: minima
