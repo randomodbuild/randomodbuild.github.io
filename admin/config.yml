@@ -1,8 +1,12 @@
+# backend:
+#   name: github
+#   repo: randomodbuild/randomodbuild.github.io
+#   branch: master
+#   site_domain: kind-swanson-c06a18.netlify.app
+
 backend:
-  name: github
-  repo: randomodbuild/randomodbuild.github.io
-  branch: master
-  site_domain: kind-swanson-c06a18.netlify.app
+  name: git-gateway
+  branch: main
 
 media_folder: "assets/img"
 
