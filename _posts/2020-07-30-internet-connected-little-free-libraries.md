@@ -199,6 +199,8 @@ Also, the fundraiser! We started a GoFundMe to pay back the supplies used to bui
 
 The last part of the project was to plant it somewhere. But even now, the library still isn&#8217;t planted. This whole Covid-19 mess happened, and we wanted to put the LFL on a piece of city land. We wanted this library to get some good use, somewhere public but not too public, and we found the spot. It is a really nice place, but you know how this process can be. I am still in contact with somebody in the city, and I can promise that this library will be planted and used, and serve its purpose. It may not be at the same spot, it may be. But it will be put out there. This is us at the spot with the library:
 
+![]()
+
 <figure class="wp-block-gallery columns-3 is-cropped">
 
 <ul class="blocks-gallery-grid">
