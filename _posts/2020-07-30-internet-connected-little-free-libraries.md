@@ -69,64 +69,25 @@ We had all agreed on building a LFL and I had filled them in on the plan to add 
 
 ![](/assets/img/mountreflfl.jpeg)
 
-<figure class="wp-block-gallery columns-3 is-cropped">
+The nice lady who made the library was there, and I filled her in on our plan. She thought it was really cool, and even offered me some spare shingles that she used for the roof! Awesome! A few days later we had come up with the final dimensions for the library.
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/4C8EDA8D-BCA3-45B4-9AC7-CCA1458BFC31_1_105_c.jpeg" alt="" data-id="63" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/4C8EDA8D-BCA3-45B4-9AC7-CCA1458BFC31_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=63#main" class="wp-image-63" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/4C8EDA8D-BCA3-45B4-9AC7-CCA1458BFC31_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/4C8EDA8D-BCA3-45B4-9AC7-CCA1458BFC31_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/1B5E9729-A693-4801-804D-67AC03B0ED60_1_105_c.jpeg" alt="" data-id="64" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/1B5E9729-A693-4801-804D-67AC03B0ED60_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=64#main" class="wp-image-64" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/1B5E9729-A693-4801-804D-67AC03B0ED60_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/1B5E9729-A693-4801-804D-67AC03B0ED60_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/9F16B04A-F0BA-4E32-9125-A338BFAC1F0B_1_105_c.jpeg" alt="" data-id="65" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/9F16B04A-F0BA-4E32-9125-A338BFAC1F0B_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=65#main" class="wp-image-65" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/9F16B04A-F0BA-4E32-9125-A338BFAC1F0B_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/9F16B04A-F0BA-4E32-9125-A338BFAC1F0B_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/0242AAE9-E4C5-4399-A3F0-A08F2B26AD75_1_105_c.jpeg" alt="" data-id="66" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/0242AAE9-E4C5-4399-A3F0-A08F2B26AD75_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=66#main" class="wp-image-66" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/0242AAE9-E4C5-4399-A3F0-A08F2B26AD75_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/0242AAE9-E4C5-4399-A3F0-A08F2B26AD75_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/A4826AE2-BC8A-4C9F-90C2-B52B2F0E4DE5_1_105_c.jpeg" alt="" data-id="67" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/A4826AE2-BC8A-4C9F-90C2-B52B2F0E4DE5_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=67#main" class="wp-image-67" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/A4826AE2-BC8A-4C9F-90C2-B52B2F0E4DE5_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/A4826AE2-BC8A-4C9F-90C2-B52B2F0E4DE5_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/C8971C37-8882-41AB-9D1F-05C2C27AC8FF_1_105_c.jpeg" alt="" data-id="68" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/C8971C37-8882-41AB-9D1F-05C2C27AC8FF_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=68#main" class="wp-image-68" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/C8971C37-8882-41AB-9D1F-05C2C27AC8FF_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/C8971C37-8882-41AB-9D1F-05C2C27AC8FF_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/EE7EF7EF-FD7A-4AF0-BF15-CB9FEF2758C1_1_105_c.jpeg" alt="" data-id="69" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/EE7EF7EF-FD7A-4AF0-BF15-CB9FEF2758C1_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=69#main" class="wp-image-69" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/EE7EF7EF-FD7A-4AF0-BF15-CB9FEF2758C1_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/EE7EF7EF-FD7A-4AF0-BF15-CB9FEF2758C1_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/76C83DD7-D4F3-4CD0-8F87-B89127249E67_1_105_c.jpeg" alt="" data-id="70" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/76C83DD7-D4F3-4CD0-8F87-B89127249E67_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=70#main" class="wp-image-70" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/76C83DD7-D4F3-4CD0-8F87-B89127249E67_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/76C83DD7-D4F3-4CD0-8F87-B89127249E67_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/C704CD17-4E71-4FBE-9B81-1AE22D6C4228_1_105_c.jpeg" alt="" data-id="71" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/C704CD17-4E71-4FBE-9B81-1AE22D6C4228_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=71#main" class="wp-image-71" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/C704CD17-4E71-4FBE-9B81-1AE22D6C4228_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/C704CD17-4E71-4FBE-9B81-1AE22D6C4228_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/D43926DC-D35E-4448-980D-298F05473B3C_1_105_c.jpeg" alt="" data-id="72" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/D43926DC-D35E-4448-980D-298F05473B3C_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=72#main" class="wp-image-72" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/D43926DC-D35E-4448-980D-298F05473B3C_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/D43926DC-D35E-4448-980D-298F05473B3C_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/4F94A2D6-8406-4033-AE08-140416223B0A_1_105_c.jpeg" alt="" data-id="73" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/4F94A2D6-8406-4033-AE08-140416223B0A_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=73#main" class="wp-image-73" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/4F94A2D6-8406-4033-AE08-140416223B0A_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/4F94A2D6-8406-4033-AE08-140416223B0A_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/45BAC310-D060-42F2-926B-0C434DEF4262_1_105_c.jpeg" alt="" data-id="74" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/45BAC310-D060-42F2-926B-0C434DEF4262_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=74#main" class="wp-image-74" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/45BAC310-D060-42F2-926B-0C434DEF4262_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/45BAC310-D060-42F2-926B-0C434DEF4262_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-</ul><figcaption class="blocks-gallery-caption">The Library I took measurements from.</figcaption></figure> 
+![](/assets/img/cardbdwithbook.jpeg)
 
-The nice lady who made the library was there, and I filled her in on our plan. She thought it was really cool, and even offered me some spare shingles that she used for the roof! Awesome! A few days later we had come up with the final dimensions for the library.<figure class="wp-block-gallery columns-3 is-cropped">
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/9A449FD4-9B5F-4FF3-A091-250C87DFC149_1_105_c.jpeg" alt="" data-id="75" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/9A449FD4-9B5F-4FF3-A091-250C87DFC149_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=75#main" class="wp-image-75" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/9A449FD4-9B5F-4FF3-A091-250C87DFC149_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/9A449FD4-9B5F-4FF3-A091-250C87DFC149_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/BC02F9E1-70E7-4FF4-8D80-2851DE064272_1_105_c.jpeg" alt="" data-id="76" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/BC02F9E1-70E7-4FF4-8D80-2851DE064272_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=76#main" class="wp-image-76" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/BC02F9E1-70E7-4FF4-8D80-2851DE064272_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/BC02F9E1-70E7-4FF4-8D80-2851DE064272_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/376FFC11-D6CD-4F60-BA24-8599257BB9C1_1_105_c.jpeg" alt="" data-id="77" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/376FFC11-D6CD-4F60-BA24-8599257BB9C1_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=77#main" class="wp-image-77" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/376FFC11-D6CD-4F60-BA24-8599257BB9C1_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/376FFC11-D6CD-4F60-BA24-8599257BB9C1_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-</ul><figcaption class="blocks-gallery-caption">Some rough plans for our library.</figcaption></figure> 
+
+![](/assets/img/initdimen.jpeg)
+
+
+
+![](/assets/img/cdbdref.jpeg)
+
+
 
 This is what we originally came up with. We had some design requirements. It had to allow for a camera system. At this point in the project we knew we were doing a camera system, even if it turned out to be stolen or whoever knows what. In the notepad you can sort of see where the opening for the books would be. The roof would be flat and sloped to account for the solar panel on top. The whole front wouldn&#8217;t just be a door; there had to be space on the top of the opening to house a camera, and on the side to house the power supply. With this design, we always *could* add the camera, but it wouldn&#8217;t be too restrictive if we didn&#8217;t. We could simply take the internal divider (what separated the main book compartment from the power supply compartment) out to get even more book space if need be. As I said earlier, coming up with the design was the hardest part of the construction because we wanted it to be compatible with the camera system and we wanted it to be not too huge but also not too small.
 
-Once we had come up with the rough design. I started drawing up the actual design and the shopping list.<figure class="wp-block-gallery columns-3 is-cropped">
+Once we had come up with the rough design. I started drawing up the actual design and the shopping list.
+
+<figure class="wp-block-gallery columns-3 is-cropped">
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
