@@ -61,49 +61,27 @@ Once we had come up with the rough design. I started drawing up the actual desig
 
 ![](/assets/img/plans1.jpg)
 
-
-
 ![](/assets/img/plans2.jpg)
-
-
 
 ![](/assets/img/plans3.jpg)
 
-
-
 ![](/assets/img/plans4.jpg)
-
-
 
 ![](/assets/img/shopinglist.jpg)
 
-
-
 ![](/assets/img/shoplist2.jpg)
-
-
 
 The next day I went to Lowes to get all the wood, paint, brackets, etc. Anything that was in the shopping list. Then, we started building. Jake and Nathan came over.
 
 ![](/assets/img/mkshiftsaw.jpeg)
 
-
-
 ![](/assets/img/notenoughprotec.jpeg)
-
-
 
 ![](/assets/img/sticktoplan.jpeg)
 
-
-
 ![](/assets/img/sandingbros.jpeg)
 
-
-
 ![](/assets/img/sanding.jpeg)
-
-
 
 ![](/assets/img/mess.jpeg)
 
@@ -111,47 +89,25 @@ While we thought we were being productive, we only got the wood cut out and star
 
 ![](/assets/img/painting1.jpeg)
 
-
-
 ![](/assets/img/painting2.jpeg)
-
-
 
 ![](/assets/img/painting3.jpeg)
 
-
-
 ![](/assets/img/painting4.jpeg)
-
-
 
 ![](/assets/img/painting5.jpeg)
 
-
-
 ![](/assets/img/painting6.jpeg)
-
-
 
 ![](/assets/img/painting7.jpeg)
 
-
-
 ![](/assets/img/painting8.jpeg)
-
-
 
 ![](/assets/img/painting9.jpeg)
 
-
-
 ![](/assets/img/painting10.jpeg)
 
-
-
 ![](/assets/img/painting11.jpeg)
-
-
 
 ![](/assets/img/post.jpeg)
 
@@ -159,19 +115,11 @@ First, I finished sanding the individual pieces and applied a few coats to each.
 
 ![](/assets/img/assembly1.jpeg)
 
-
-
 ![](/assets/img/assembly2.jpeg)
-
-
 
 ![](/assets/img/assembly3.jpeg)
 
-
-
 ![](/assets/img/assembly4.jpeg)
-
-
 
 ![](/assets/img/assembly5.jpeg)
 
@@ -199,47 +147,27 @@ Also, the fundraiser! We started a GoFundMe to pay back the supplies used to bui
 
 The last part of the project was to plant it somewhere. But even now, the library still isn&#8217;t planted. This whole Covid-19 mess happened, and we wanted to put the LFL on a piece of city land. We wanted this library to get some good use, somewhere public but not too public, and we found the spot. It is a really nice place, but you know how this process can be. I am still in contact with somebody in the city, and I can promise that this library will be planted and used, and serve its purpose. It may not be at the same spot, it may be. But it will be put out there. This is us at the spot with the library:
 
-![]()
+![](/assets/img/lflspot.jpeg)
 
-<figure class="wp-block-gallery columns-3 is-cropped">
+I remember in the beginning of the year, my teacher said our goal for the project should be to make the news. I remember thinking that this was a high but achievable goal. Cut to after the library was built. We were looking for a home for the library, so I made a post on Nextdoor.
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/7BCD29F0-B7F8-4030-A78B-890657D4275B_1_105_c-2.jpeg" alt="" data-id="142" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/7BCD29F0-B7F8-4030-A78B-890657D4275B_1_105_c-2.jpeg" data-link="https://randomodbuild.tk/?attachment_id=142#main" class="wp-image-142" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/7BCD29F0-B7F8-4030-A78B-890657D4275B_1_105_c-2.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/7BCD29F0-B7F8-4030-A78B-890657D4275B_1_105_c-2-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/0610AF97-0D42-40D1-B83C-6E86FE5EA442_1_105_c-2.jpeg" alt="" data-id="143" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/0610AF97-0D42-40D1-B83C-6E86FE5EA442_1_105_c-2.jpeg" data-link="https://randomodbuild.tk/?attachment_id=143#main" class="wp-image-143" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/0610AF97-0D42-40D1-B83C-6E86FE5EA442_1_105_c-2.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/0610AF97-0D42-40D1-B83C-6E86FE5EA442_1_105_c-2-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/0C809EA9-E85E-4F6A-A9B5-67D964564DE0_1_105_c-2.jpeg" alt="" data-id="144" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/0C809EA9-E85E-4F6A-A9B5-67D964564DE0_1_105_c-2.jpeg" data-link="https://randomodbuild.tk/?attachment_id=144#main" class="wp-image-144" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/0C809EA9-E85E-4F6A-A9B5-67D964564DE0_1_105_c-2.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/0C809EA9-E85E-4F6A-A9B5-67D964564DE0_1_105_c-2-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/2E99346A-CE84-46B5-82FA-AE03B8DE4B2F_1_105_c-2.jpeg" alt="" data-id="145" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/2E99346A-CE84-46B5-82FA-AE03B8DE4B2F_1_105_c-2.jpeg" data-link="https://randomodbuild.tk/?attachment_id=145#main" class="wp-image-145" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/2E99346A-CE84-46B5-82FA-AE03B8DE4B2F_1_105_c-2.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/2E99346A-CE84-46B5-82FA-AE03B8DE4B2F_1_105_c-2-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="1024" height="768" src="https://randomodbuild.tk/wp-content/uploads/2020/07/5E3A5A12-9166-4F92-8C3E-C9C86B1BF325_1_105_c-2.jpeg" alt="" data-id="147" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/5E3A5A12-9166-4F92-8C3E-C9C86B1BF325_1_105_c-2.jpeg" data-link="https://randomodbuild.tk/?attachment_id=147#main" class="wp-image-147" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/5E3A5A12-9166-4F92-8C3E-C9C86B1BF325_1_105_c-2.jpeg 1024w, https://www.randomodbuild.com/wp-content/uploads/2020/07/5E3A5A12-9166-4F92-8C3E-C9C86B1BF325_1_105_c-2-300x225.jpeg 300w, https://www.randomodbuild.com/wp-content/uploads/2020/07/5E3A5A12-9166-4F92-8C3E-C9C86B1BF325_1_105_c-2-768x576.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-  </li>
-</ul></figure> 
+![](/assets/img/littlefreelibrarynextdoor.png)
 
-I remember in the beginning of the year, my teacher said our goal for the project should be to make the news. I remember thinking that this was a high but achievable goal. Cut to after the library was built. We were looking for a home for the library, so I made a post on Nextdoor.<figure class="wp-block-image size-large">
+The next morning, I got a PM from somebody at SpectrumLocalNews, and later that day, we were interviewed! Even though it was only a recorded video and for a local news channel, we still made the news.
 
-<img loading="lazy" width="583" height="621" src="https://randomodbuild.tk/wp-content/uploads/2020/11/littlefreelibrarynextdoor.png" alt="" class="wp-image-184" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/11/littlefreelibrarynextdoor.png 583w, https://www.randomodbuild.com/wp-content/uploads/2020/11/littlefreelibrarynextdoor-282x300.png 282w" sizes="(max-width: 583px) 100vw, 583px" /> </figure> 
+![](/assets/img/interviewed.jpeg)
 
-The next morning, I got a PM from somebody at SpectrumLocalNews, and later that day, we were interviewed! Even though it was only a recorded video and for a local news channel, we still made the news.<figure class="wp-block-gallery columns-3 is-cropped">
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/B8DDEF43-F043-4C65-A8FE-D0CA6800072B_1_105_c.jpeg" alt="" data-id="126" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/B8DDEF43-F043-4C65-A8FE-D0CA6800072B_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=126#main" class="wp-image-126" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/B8DDEF43-F043-4C65-A8FE-D0CA6800072B_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/B8DDEF43-F043-4C65-A8FE-D0CA6800072B_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="768" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/CCEBD433-AF08-49E6-A9BD-8FEBBE26F96E_1_105_c.jpeg" alt="" data-id="127" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/CCEBD433-AF08-49E6-A9BD-8FEBBE26F96E_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=127#main" class="wp-image-127" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/CCEBD433-AF08-49E6-A9BD-8FEBBE26F96E_1_105_c.jpeg 768w, https://www.randomodbuild.com/wp-content/uploads/2020/07/CCEBD433-AF08-49E6-A9BD-8FEBBE26F96E_1_105_c-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="576" height="1024" src="https://randomodbuild.tk/wp-content/uploads/2020/07/C0BD4DA7-117E-49BE-A836-ABB4165BAF31_1_105_c-576x1024.jpeg" alt="" data-id="128" data-full-url="https://randomodbuild.tk/wp-content/uploads/2020/07/C0BD4DA7-117E-49BE-A836-ABB4165BAF31_1_105_c.jpeg" data-link="https://randomodbuild.tk/?attachment_id=128#main" class="wp-image-128" srcset="https://www.randomodbuild.com/wp-content/uploads/2020/07/C0BD4DA7-117E-49BE-A836-ABB4165BAF31_1_105_c-576x1024.jpeg 576w, https://www.randomodbuild.com/wp-content/uploads/2020/07/C0BD4DA7-117E-49BE-A836-ABB4165BAF31_1_105_c-169x300.jpeg 169w, https://www.randomodbuild.com/wp-content/uploads/2020/07/C0BD4DA7-117E-49BE-A836-ABB4165BAF31_1_105_c.jpeg 665w" sizes="(max-width: 576px) 100vw, 576px" /></figure>
-  </li>
-</ul></figure> 
 
-Here is the video in all of its glory 🙂<figure class="wp-block-video"><video src="https://randomodbuild.tk/wp-content/uploads/2020/07/LittleFreeLibraryNews-1.mp4"></video></figure> 
+![](/assets/img/interviewed2.jpeg)
+
+
+
+Here is the video in all of its glory 🙂
+
+```
+<video src="https://www.randomodbuild.com/wp-content/uploads/2020/07/LittleFreeLibraryNews-1.mp4"></video>
+```
 
 So why am I posting this just now to the website? I hope that eventually this idea will catch on. Sure, there are shortcomings. Cameras will be stolen, some don&#8217;t see the point of it, but I hope others do. Someday I hope to expand this idea, possibly making more libraries, or maybe using OCR and setting up a real catalogue. The beauty of this current system is that it doesn&#8217;t hinder anybody&#8217;s use of the library. You don&#8217;t have to scan any QR codes, you don&#8217;t have to log which books are in every time you use it, everything is automated. Sometimes the simplest solutions work the best, and I&#8217;d say the current solution is pretty simple. Maybe eventually the Little Free Library™ website will have a catalogue of books using this technique, which would be super cool. First, we have to get the library planted, before we even talk about future plans though(although I would definitely not mind helping others if they wanted to do something similar to this) but after.
 
