@@ -1,17 +1,18 @@
 ---
-id: 60
-title: Internet Connected Little Free Libraries™
-date: 2020-07-30T23:34:01-05:00
-author: brooks
-layout: post
 guid: http://randomodbuild.tk/?p=60
+layout: post
+author: brooks
 permalink: /2020/07/internet-connected-little-free-libraries/
+date: 2020-07-30T23:34:01-05:00
 enclosure:
-  - |
+  - >
     https://randomodbuild.tk/wp-content/uploads/2020/07/LittleFreeLibraryNews-1.mp4
+
     9208557
+
     video/mp4
-    
+title: Internet Connected Little Free Libraries™
+id: 60
 image: /wp-content/uploads/2020/07/Screen-Shot-2020-07-30-at-5.50.07-PM.png
 categories:
   - Uncategorized
@@ -21,6 +22,52 @@ At the school I used to attend, a community service project was required to grad
 Jake&#8217;s new idea was simple: Build a little free library, place it in a neighborhood, and be done. Pretty simple to do. Nathan agreed to this plan, and so did I, but (being myself) I wanted to complicate things just a little. I have been interested in IoT devices for the longest time, and I thought it would be really cool to have a camera inside the LFL (that&#8217;s what I&#8217;m going to call the &#8220;book box) so you could check online which books are in stock before you go. At first I was thinking super complicated&#8211;I wanted to have a raspberry pi inside with a camera and a LoRa Hat and somehow broadcast that image to another pi acting as a gateway to decode the packet into an image file and then upload that to a website blah blah blah. But we wanted to keep costs low and reliability high, and keep it simple. So I will get back to this part of the story.
 
 We had all agreed on building a LFL and I had filled them in on the plan to add a camera. We knew that we could build a LFL, but the camera part was tricky. We didn&#8217;t want any issues with the camera system to prevent the main point from failing&#8211;to have a usable LFL. So we decided to be constantly brainstorming about the camera system while we planned out the main library. This was the most difficult part. While it was all pre-quarantine, we still lived very far apart, so most of the brainstorming had to happen remotely. We each checked our local neighborhoods for any LFLs so we could measure them and form our own plans. Luckily for me, there was one within a quarter mile of my house. My parents were hounding me to get this started, and when my mom was walking she found the LFL previously mentioned. She even had a brief talk with the nice lady who made the library, and said that her son may be over taking some photos soon. So a few days later I biked over and brought my measuring tape and phone to take a few photos and measurements.
+
+![Front view of little free library](/assets/img/observelflfront.png)
+
+
+
+![roof view of reference library](/assets/img/roofreferencelfl.jpeg)
+
+
+
+![other side of roof of reference library](/assets/img/othersideroofreferenceLfl.jpeg)
+
+
+
+![](/assets/img/measreflfl.jpeg)
+
+
+
+![](/assets/img/measheightreflfl.jpeg)
+
+
+
+![](/assets/img/measwidreflfl.jpeg)
+
+
+
+![](/assets/img/measroofreflfl.jpeg)
+
+
+
+![](/assets/img/indoorreflfl.jpeg)
+
+
+
+![](/assets/img/booksreflfl.jpeg)
+
+
+
+![](/assets/img/inheightreflfl.jpeg)
+
+
+
+![](/assets/img/lowwidthreflfl.jpeg)
+
+
+
+![](/assets/img/mountreflfl.jpeg)
 
 <figure class="wp-block-gallery columns-3 is-cropped">
 
@@ -77,7 +124,7 @@ The nice lady who made the library was there, and I filled her in on our plan. S
   </li>
 </ul><figcaption class="blocks-gallery-caption">Some rough plans for our library.</figcaption></figure> 
 
-This is what we originally came up with. We had some design requirements. It had to allow for a camera system. At this point in the project we knew we were doing a camera system, even if it turned out to be stolen or whoever knows what. In the notepad you can sort of see where the opening for the books would be. The roof would be flat and sloped to account for the solar panel on top. The whole front wouldn&#8217;t just be a door; there had to be space on the top of the opening to house a camera, and on the side to house the power supply. With this design, we always _could_ add the camera, but it wouldn&#8217;t be too restrictive if we didn&#8217;t. We could simply take the internal divider (what separated the main book compartment from the power supply compartment) out to get even more book space if need be. As I said earlier, coming up with the design was the hardest part of the construction because we wanted it to be compatible with the camera system and we wanted it to be not too huge but also not too small.
+This is what we originally came up with. We had some design requirements. It had to allow for a camera system. At this point in the project we knew we were doing a camera system, even if it turned out to be stolen or whoever knows what. In the notepad you can sort of see where the opening for the books would be. The roof would be flat and sloped to account for the solar panel on top. The whole front wouldn&#8217;t just be a door; there had to be space on the top of the opening to house a camera, and on the side to house the power supply. With this design, we always *could* add the camera, but it wouldn&#8217;t be too restrictive if we didn&#8217;t. We could simply take the internal divider (what separated the main book compartment from the power supply compartment) out to get even more book space if need be. As I said earlier, coming up with the design was the hardest part of the construction because we wanted it to be compatible with the camera system and we wanted it to be not too huge but also not too small.
 
 Once we had come up with the rough design. I started drawing up the actual design and the shopping list.<figure class="wp-block-gallery columns-3 is-cropped">
 
@@ -285,8 +332,8 @@ Here is the video in all of its glory 🙂<figure class="wp-block-video"><video 
 
 So why am I posting this just now to the website? I hope that eventually this idea will catch on. Sure, there are shortcomings. Cameras will be stolen, some don&#8217;t see the point of it, but I hope others do. Someday I hope to expand this idea, possibly making more libraries, or maybe using OCR and setting up a real catalogue. The beauty of this current system is that it doesn&#8217;t hinder anybody&#8217;s use of the library. You don&#8217;t have to scan any QR codes, you don&#8217;t have to log which books are in every time you use it, everything is automated. Sometimes the simplest solutions work the best, and I&#8217;d say the current solution is pretty simple. Maybe eventually the Little Free Library™ website will have a catalogue of books using this technique, which would be super cool. First, we have to get the library planted, before we even talk about future plans though(although I would definitely not mind helping others if they wanted to do something similar to this) but after.
 
-Alrighty! If you made it this far pat yourself on the back! If you just skipped ahead than I would recommend you at least check out the photos, some are interesting. Here is the link to the website where you can see the books: <https://littlecataloglfl.tl>  
-And here is the link to the news article/video:  
+Alrighty! If you made it this far pat yourself on the back! If you just skipped ahead than I would recommend you at least check out the photos, some are interesting. Here is the link to the website where you can see the books: <https://littlecataloglfl.tl>\
+And here is the link to the news article/video:\
 <https://spectrumlocalnews.com/nc/charlotte/news/2020/01/25/eighth-graders-build-little-free-library-with-solar-powered-camera>  
-  
+
 If you have any other questions or comments, feel free to use the comments section below!
