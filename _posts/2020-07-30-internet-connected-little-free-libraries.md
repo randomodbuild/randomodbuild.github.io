@@ -157,17 +157,11 @@ The next morning, I got a PM from somebody at SpectrumLocalNews, and later that 
 
 ![](/assets/img/interviewed.jpeg)
 
-
-
 ![](/assets/img/interviewed2.jpeg)
-
-
 
 Here is the video in all of its glory 🙂
 
-```
 <video src="https://www.randomodbuild.com/wp-content/uploads/2020/07/LittleFreeLibraryNews-1.mp4"></video>
-```
 
 So why am I posting this just now to the website? I hope that eventually this idea will catch on. Sure, there are shortcomings. Cameras will be stolen, some don&#8217;t see the point of it, but I hope others do. Someday I hope to expand this idea, possibly making more libraries, or maybe using OCR and setting up a real catalogue. The beauty of this current system is that it doesn&#8217;t hinder anybody&#8217;s use of the library. You don&#8217;t have to scan any QR codes, you don&#8217;t have to log which books are in every time you use it, everything is automated. Sometimes the simplest solutions work the best, and I&#8217;d say the current solution is pretty simple. Maybe eventually the Little Free Library™ website will have a catalogue of books using this technique, which would be super cool. First, we have to get the library planted, before we even talk about future plans though(although I would definitely not mind helping others if they wanted to do something similar to this) but after.
 
