@@ -1,17 +1,16 @@
 ---
-id: 26
 title: New Website!
-date: 2020-07-29T04:09:36-05:00
+date: 2020-07-29 09:09:36 Z
+categories:
+- Uncategorized
+id: 26
 author: admin
 layout: post
-<!-- guid: http://randomodbuild.tk/?p=26 -->
-<!-- permalink: /2020/07/new-website/ -->
-# <!-- dsq_thread_id: -->
-# <!--  - "8145049521" -->
-image: /assets/img/randowpbanner.png
-categories:
-  - Uncategorized
+"<!-- guid": http://randomodbuild.tk/?p=26 -->
+"<!-- permalink": "/2020/07/new-website/ -->"
+image: "/assets/img/randowpbanner.png"
 ---
+
 ![randomodbuild banner image](/assets/img/randowpbanner.png)
 
 

@@ -1,22 +1,21 @@
 ---
+title: Internet Connected Little Free Libraries™
+date: 2020-07-31 04:34:01 Z
+permalink: "/2020/07/internet-connected-little-free-libraries/"
+categories:
+- Uncategorized
 guid: http://randomodbuild.tk/?p=60
 layout: post
 author: brooks
-permalink: /2020/07/internet-connected-little-free-libraries/
-date: 2020-07-30T23:34:01-05:00
 enclosure:
-  - >
-    https://randomodbuild.tk/wp-content/uploads/2020/07/LittleFreeLibraryNews-1.mp4
-
-    9208557
-
-    video/mp4
-title: Internet Connected Little Free Libraries™
+- |
+  https://randomodbuild.tk/wp-content/uploads/2020/07/LittleFreeLibraryNews-1.mp4
+  9208557
+  video/mp4
 id: 60
-image: /wp-content/uploads/2020/07/Screen-Shot-2020-07-30-at-5.50.07-PM.png
-categories:
-  - Uncategorized
+image: "/wp-content/uploads/2020/07/Screen-Shot-2020-07-30-at-5.50.07-PM.png"
 ---
+
 At the school I used to attend, a community service project was required to graduate. You could do it as a group or alone, so of course I was in a group with 2 of my friends. I originally wanted to do something related to 3D printing. I had purchased a budget 3D printer in 2017, the Tronxy X1. My idea was to go to my elementary school, get a 3D printer, and have a little class teaching kids how to use and maintain a 3D printer. It probably would have benefited the community (a requirement for the project), but there were too many variables. It would be hard to do as a group, because my friends lived 30 minutes away, and having classes about 3D printers would be a pain to coordinate. Plus, we needed money. And while 3D printers have gone down significantly in price and we could&#8217;ve just bought a few Ender 3&#8217;s, it would&#8217;ve been a hassle to rally parents into funding 3D printers that their student may not even use. So it could&#8217;ve worked, but would have been a huge pain to coordinate. Plus, Jake (one of the 2 friends) came up with a much better idea; to make a little free library. So we quickly decided to do away with the original plan.
 
 Jake&#8217;s new idea was simple: Build a little free library, place it in a neighborhood, and be done. Pretty simple to do. Nathan agreed to this plan, and so did I, but (being myself) I wanted to complicate things just a little. I have been interested in IoT devices for the longest time, and I thought it would be really cool to have a camera inside the LFL (that&#8217;s what I&#8217;m going to call the &#8220;book box) so you could check online which books are in stock before you go. At first I was thinking super complicated&#8211;I wanted to have a raspberry pi inside with a camera and a LoRa Hat and somehow broadcast that image to another pi acting as a gateway to decode the packet into an image file and then upload that to a website blah blah blah. But we wanted to keep costs low and reliability high, and keep it simple. So I will get back to this part of the story.

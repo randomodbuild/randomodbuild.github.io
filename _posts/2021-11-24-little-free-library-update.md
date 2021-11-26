@@ -1,7 +1,8 @@
 ---
 title: Little Free Library Update!
-date: 2021-11-24T21:08:33.191Z
+date: 2021-11-24 21:08:33 Z
 ---
+
 I'm happy to say that the little free library has finally been installed in a public place, and there have been some changes!
 
 While I'm not pleased with the timeline (it's been nearly 2 years!!), I am glad that the library is now being used by the community.

@@ -1,15 +1,16 @@
 ---
-id: 223
 title: New Domain Name! randomodbuild.com
-date: 2021-07-30T12:45:40-05:00
+date: 2021-07-30 17:45:40 Z
+categories:
+- Uncategorized
+id: 223
 author: admin
 layout: post
-<!-- guid: https://www.randomodbuild.com/?p=223 -->
-<!-- permalink: /2021/07/new-domain-name-randomodbuild-com/ -->
-image: /assets/img/www-randomodbuild-com-img.jpeg
-categories:
-  - Uncategorized
+"<!-- guid": https://www.randomodbuild.com/?p=223 -->
+"<!-- permalink": "/2021/07/new-domain-name-randomodbuild-com/ -->"
+image: "/assets/img/www-randomodbuild-com-img.jpeg"
 ---
+
 ![www.randomodbuild.com image](/assets/img/www-randomodbuild-com-img.jpeg)
 
 
