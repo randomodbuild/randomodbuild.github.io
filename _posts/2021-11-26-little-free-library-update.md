@@ -8,7 +8,7 @@ While I'm not pleased with the timeline (it's been nearly 2 years!!), I am glad 
 
 ## Context
 
-The Little Free Library was originally constructed back in 8th grade for a community service project. You can learn more about that \[here]({% post_url %}) After I finished construction, my teammates found a location for the library. It was going to be on county land, part of a new "green" area that the city had setup. There were several great characteristics: Sunny (for the solar panel), walkable (we wanted it to get decent use), close to a teammate (for easier maintenance of the library). 
+The Little Free Library was originally constructed back in 8th grade for a community service project. You can learn more about that After I finished construction, my teammates found a location for the library. It was going to be on county land, part of a new "green" area that the city had setup. There were several great characteristics: Sunny (for the solar panel), walkable (we wanted it to get decent use), close to a teammate (for easier maintenance of the library). 
 
 However, soon after the completion of the Library, Covid-19 happened. The city stopped returning my emails, and after almost a year of nothing, I decided that it was time to move on. With all three of us now in different high schools, I asked my teammate to drop the library off at my house, and it would be my responsibility to get it installed somewhere. 
 
